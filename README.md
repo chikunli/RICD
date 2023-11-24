@@ -11,7 +11,7 @@ https://doi.org/10.5705/ss.202022.0142
 
 Includes:
 
-R codes for calculate the Minimum Ridge Covariance Determinant Estimator
+R codes for calculating the Minimum Ridge Covariance Determinant Estimator
 
 Data (in CSV) used for detecting outliers in Stock data from the Sina Finance database
 
